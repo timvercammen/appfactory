@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+/* Uitleg om icons toe te voegen (kijk icomoon) */
+/* body {
+  background-color: red;
+}
+
+h1 {
+  background-color: purple;
+  font-size: 25px;
+  font-family: Arial;
+}
+
+h1::before {
+  content: "\e901";
+  font-family: "icons";
+  color: yellow;
+  font-size: 33px;
+} */
