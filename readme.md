@@ -8,7 +8,7 @@ website om ico-font te genereren => [icomoon.io](https://icomoon.io)
 
 ## total reset
 
-erik meyer (http://meyerweb.com/eric/tools/css/reset/)
+erik meyer [reset.css](http://meyerweb.com/eric/tools/css/reset/)
 
 
 ## tips
