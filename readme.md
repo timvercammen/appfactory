@@ -3,12 +3,12 @@
 
 ## icons
 
-website om ico-font te genereren => (https://icomoon.io)[icomoon.io]
+website om ico-font te genereren => [icomoon.io](https://icomoon.io)
 
 
 ## total reset
 
-erik meyer (http://meyerweb.com/eric/tools/css/reset/)[reset.css]
+erik meyer (http://meyerweb.com/eric/tools/css/reset/)
 
 
 ## tips
